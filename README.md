@@ -1,0 +1,2 @@
+# NanoString-Spatial-Omics-Hackathon
+NanoString’s GeoMx® DSP stands at the powerful intersection of tissue imaging technology and genomic sciences.  It enables investigators to finely dissect the fundamental features of any tissue and ask critical questions concerning tissue organization, cellular interactions, and disease pathology.  In the Spatial Omics Hackathon, data enthusiasts will use data from the GeoMx platform with your favorite dev tools to build smarter solutions to develop insights into kidney disease.
