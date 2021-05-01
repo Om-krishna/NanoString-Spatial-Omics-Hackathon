@@ -22,8 +22,6 @@ An estimated  17.5 million deaths  occur  due  to cardiovascular diseases  world
 
 Hence, it will not only save cost but also the time of both analysts and patients.
 
-# FlowChart
-![Alt text](https://drive.google.com/file/d/1IUajOsHX1Nr-19M6YlGfnX6y6djTev6W/view?usp=sharing)
 
 
 
