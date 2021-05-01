@@ -22,3 +22,8 @@ An estimated  17.5 million deaths  occur  due  to cardiovascular diseases  world
 
 Hence, it will not only save cost but also the time of both analysts and patients.
 
+
+# Future Enhancement:
+Our current project is implemented on a static dataset . It can be enhanced with dynamic dataset with real time inputs . Better datasets , more training will lead to much better results and eliminate all possible limitations.  
+
+
